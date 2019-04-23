@@ -1,0 +1,21 @@
+C:\Users\sebas\AppData\Local\Temporary Projects\MouseHud\bin\Debug\MouseHud.exe.config
+C:\Users\sebas\AppData\Local\Temporary Projects\MouseHud\bin\Debug\MouseHud.exe
+C:\Users\sebas\AppData\Local\Temporary Projects\MouseHud\bin\Debug\MouseHud.pdb
+C:\Users\sebas\AppData\Local\Temporary Projects\MouseHud\obj\Debug\MouseHud.csprojAssemblyReference.cache
+C:\Users\sebas\AppData\Local\Temporary Projects\MouseHud\obj\Debug\MouseHud.Properties.Resources.resources
+C:\Users\sebas\AppData\Local\Temporary Projects\MouseHud\obj\Debug\MouseHud.csproj.GenerateResource.cache
+C:\Users\sebas\AppData\Local\Temporary Projects\MouseHud\obj\Debug\MouseHud.csproj.CoreCompileInputs.cache
+C:\Users\sebas\AppData\Local\Temporary Projects\MouseHud\obj\Debug\MouseHud.exe
+C:\Users\sebas\AppData\Local\Temporary Projects\MouseHud\obj\Debug\MouseHud.pdb
+C:\Users\sebas\AppData\Local\Temporary Projects\MouseHud\obj\Debug\MouseHud.MainForm.resources
+C:\Users\sebas\source\repos\MouseHud\MouseHud\bin\Debug\MouseHud.exe.config
+C:\Users\sebas\source\repos\MouseHud\MouseHud\bin\Debug\MouseHud.exe
+C:\Users\sebas\source\repos\MouseHud\MouseHud\bin\Debug\MouseHud.pdb
+C:\Users\sebas\source\repos\MouseHud\MouseHud\obj\Debug\MouseHud.Properties.Resources.resources
+C:\Users\sebas\source\repos\MouseHud\MouseHud\obj\Debug\MouseHud.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\MouseHud\MouseHud\obj\Debug\MouseHud.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\MouseHud\MouseHud\obj\Debug\MouseHud.exe
+C:\Users\sebas\source\repos\MouseHud\MouseHud\obj\Debug\MouseHud.pdb
+C:\Users\sebas\source\repos\MouseHud\MouseHud\obj\Debug\MouseHud.UsrInf.resources
+C:\Users\sebas\source\repos\MouseHud\MouseHud\obj\Debug\MouseHud.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\MouseHud\MouseHud\obj\Debug\MouseHud.UfSettings.resources
